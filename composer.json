@@ -1,0 +1,21 @@
+{
+    "name": "urbanofilho/blog",
+    "description": "",
+    "authors": [{
+        "name": "Urbano Filho",
+        "email": "urbanofilho@gmail.com"
+    }],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Son\\Blog\\": ""
+        }
+    }
+}
